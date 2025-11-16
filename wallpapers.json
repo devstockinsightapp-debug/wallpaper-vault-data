@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "Nature",
+      "wallpapers": [
+        {
+          "title": "Sunrise Lake",
+          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/nature/sunrise_lake.jpg",
+          "productId": "wallpaper_nature_sunrise_lake_01",
+          "isFree": false
+        },
+        {
+          "title": "Forest Path",
+          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/nature/forest_path.jpg",
+          "productId": "wallpaper_nature_forest_path_02",
+          "isFree": false
+        }
+      ]
+    },
+    {
+      "name": "Clouds",
+      "wallpapers": [
+        {
+          "title": "Blue Sky",
+          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/clouds/blue_sky.jpg",
+          "productId": "wallpaper_clouds_blue_sky_01",
+          "isFree": false
+        }
+      ]
+    },
+    {
+      "name": "Abstract",
+      "wallpapers": [
+        {
+          "title": "Geometric Shapes",
+          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/abstract/geometric_shapes.jpg",
+          "productId": "wallpaper_abstract_geometric_shapes_01",
+          "isFree": false
+        }
+      ]
+    }
+  ]
+}
