@@ -9,7 +9,7 @@
           "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_1.jpeg",
           "productId": "nature_1",
           "category": "Nature",
-          "isFree": false
+          "isFree": true
         },
         {
           "id": "nature_2",
