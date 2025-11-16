@@ -4,15 +4,59 @@
       "name": "Nature",
       "wallpapers": [
         {
-          "title": "Sunrise Lake",
-          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/nature/sunrise_lake.jpg",
-          "productId": "wallpaper_nature_sunrise_lake_01",
+          "id": "nature_1",
+          "title": "nature_1",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_1.jpeg",
+          "productId": "nature_1",
+          "category": "Nature",
           "isFree": false
         },
         {
-          "title": "Forest Path",
-          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/nature/forest_path.jpg",
-          "productId": "wallpaper_nature_forest_path_02",
+          "id": "nature_2",
+          "title": "nature_2",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_2.jpeg",
+          "productId": "nature_2",
+          "category": "Nature",
+          "isFree": false
+        },
+        {
+          "id": "nature_3",
+          "title": "nature_3",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_3.jpeg",
+          "productId": "nature_3",
+          "category": "Nature",
+          "isFree": false
+        },
+        {
+          "id": "nature_4",
+          "title": "nature_4",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_4.jpeg",
+          "productId": "nature_4",
+          "category": "Nature",
+          "isFree": false
+        },
+        {
+          "id": "nature_5",
+          "title": "nature_5",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_5.jpeg",
+          "productId": "nature_5",
+          "category": "Nature",
+          "isFree": false
+        },
+        {
+          "id": "nature_6",
+          "title": "nature_6",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_6.jpeg",
+          "productId": "nature_6",
+          "category": "Nature",
+          "isFree": false
+        },
+        {
+          "id": "nature_7",
+          "title": "nature_7",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/nature/nature_7.jpeg",
+          "productId": "nature_7",
+          "category": "Nature",
           "isFree": false
         }
       ]
@@ -21,9 +65,19 @@
       "name": "Clouds",
       "wallpapers": [
         {
-          "title": "Blue Sky",
-          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/clouds/blue_sky.jpg",
-          "productId": "wallpaper_clouds_blue_sky_01",
+          "id": "clouds_1",
+          "title": "clouds_1",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/clouds/clouds_1.jpeg",
+          "productId": "clouds_1",
+          "category": "Clouds",
+          "isFree": false
+        },
+        {
+          "id": "clouds_2",
+          "title": "clouds_2",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/clouds/clouds_2.jpg",
+          "productId": "clouds_2",
+          "category": "Clouds",
           "isFree": false
         }
       ]
@@ -32,9 +86,43 @@
       "name": "Abstract",
       "wallpapers": [
         {
-          "title": "Geometric Shapes",
-          "imageUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/wallpapers/abstract/geometric_shapes.jpg",
-          "productId": "wallpaper_abstract_geometric_shapes_01",
+          "id": "abstract_1",
+          "title": "abstract_1",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/abstract/abstract_1.jpg",
+          "category": "Abstract",
+          "productId": "abstract_1",
+          "isFree": false
+        },
+        {
+          "id": "abstract_2",
+          "title": "abstract_2",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/abstract/abstract_2.jpg",
+          "category": "Abstract",
+          "productId": "abstract_2",
+          "isFree": false
+        },
+        {
+          "id": "abstract_3",
+          "title": "abstract_3",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/abstract/abstract_3.jpg",
+          "category": "Abstract",
+          "productId": "abstract_3",
+          "isFree": false
+        },
+        {
+          "id": "abstract_4",
+          "title": "abstract_4",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/abstract/abstract_4.jpg",
+          "category": "Abstract",
+          "productId": "abstract_4",
+          "isFree": false
+        },
+        {
+          "id": "abstract_5",
+          "title": "abstract_5",
+          "imageUrl": "https://raw.githubusercontent.com/devstockinsightapp-debug/wallpaper-vault-data/main/wallpapers/abstract/abstract_5.jpg",
+          "category": "Abstract",
+          "productId": "abstract_5",
           "isFree": false
         }
       ]
